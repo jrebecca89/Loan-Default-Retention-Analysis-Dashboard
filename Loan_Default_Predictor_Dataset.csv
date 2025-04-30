@@ -1,0 +1,501 @@
+﻿Loan_ID,Loan_Amount,Industry,Credit_Band,Region,Rep_Assigned,Term_Months,Application_Score,Days_To_Fund,Defaulted
+1,146958,Real Estate,Low,West,Rep A,60,809.85,9,0
+2,171867,Hospitality,Low,West,Rep C,60,596.98,6,1
+3,156932,Legal,Low,South,Rep B,60,763.12,18,1
+4,128694,Hospitality,Mid,West,Rep C,36,586.53,6,0
+5,144879,Retail,High,West,Rep D,60,642.97,19,0
+6,135268,Retail,Mid,South,Rep D,36,349.02,12,0
+7,232892,Hospitality,High,Midwest,Rep B,36,715.4,11,1
+8,79886,Healthcare,Low,West,Rep D,72,370.24,2,0
+9,162337,Construction,Mid,West,Rep C,36,754.34,15,0
+10,238458,Retail,Low,West,Rep A,24,730.12,12,0
+11,193266,Hospitality,Mid,Northeast,Rep A,36,689.81,12,1
+12,112498,Real Estate,Low,South,Rep A,72,319.89,9,1
+13,137727,Hospitality,High,Northeast,Rep B,36,466.72,2,0
+14,151324,Tech,High,South,Rep D,24,444.71,3,0
+15,200203,Construction,High,Midwest,Rep C,24,498.08,12,0
+16,216335,Legal,Mid,Midwest,Rep D,24,348.2,16,0
+17,41023,Healthcare,High,West,Rep D,72,815.33,1,0
+18,66090,Legal,Mid,South,Rep D,72,604.59,3,0
+19,92221,Construction,High,Midwest,Rep A,60,468.04,2,0
+20,89820,Construction,High,South,Rep C,72,518.34,9,0
+21,25769,Construction,Mid,Midwest,Rep C,24,545.96,19,0
+22,84735,Legal,Mid,Northeast,Rep D,24,630.33,15,0
+23,219027,Real Estate,High,Midwest,Rep A,72,583.62,18,0
+24,89925,Construction,Mid,Northeast,Rep A,36,805.67,11,0
+25,224041,Hospitality,High,Midwest,Rep C,72,573.33,16,0
+26,30311,Legal,Mid,West,Rep A,72,845.69,17,0
+27,128355,Construction,Low,Northeast,Rep A,24,768.28,5,0
+28,239176,Hospitality,Low,Midwest,Rep A,60,414.68,12,1
+29,209779,Real Estate,Low,West,Rep B,24,811.83,11,1
+30,110305,Tech,Low,Northeast,Rep D,60,364,15,0
+31,184765,Real Estate,Low,West,Rep C,24,749.6,3,0
+32,228004,Construction,High,South,Rep C,72,509.34,1,0
+33,249088,Legal,Low,South,Rep B,24,782.89,16,0
+34,155608,Retail,Low,Northeast,Rep D,24,777.43,2,0
+35,181730,Construction,Low,Midwest,Rep C,24,743.26,2,1
+36,109478,Retail,Low,Northeast,Rep A,72,734.52,3,0
+37,147537,Hospitality,Mid,West,Rep C,72,467.57,8,0
+38,174503,Tech,High,Midwest,Rep A,72,344.51,15,0
+39,155523,Healthcare,Low,South,Rep B,72,521.64,7,1
+40,27747,Real Estate,Low,Midwest,Rep A,60,395.44,6,0
+41,148855,Tech,Low,South,Rep C,60,682.22,9,0
+42,215222,Construction,High,Midwest,Rep C,36,490.35,1,0
+43,90725,Retail,Mid,Midwest,Rep C,72,836.59,8,1
+44,154981,Real Estate,High,Midwest,Rep B,60,652.53,3,0
+45,109654,Retail,Mid,West,Rep B,24,752.36,4,0
+46,191845,Legal,Low,West,Rep D,72,372.89,15,1
+47,144346,Retail,Low,Northeast,Rep C,36,774.11,6,0
+48,92435,Legal,High,Northeast,Rep A,36,807.52,15,1
+49,81886,Hospitality,High,South,Rep B,36,567.88,3,0
+50,91803,Real Estate,Mid,West,Rep C,24,633.44,14,1
+51,56551,Real Estate,Mid,South,Rep C,60,720.65,14,0
+52,141216,Healthcare,High,Northeast,Rep B,24,396.16,4,0
+53,36394,Construction,Mid,South,Rep D,72,576.41,12,1
+54,94092,Legal,High,Northeast,Rep B,36,519.26,17,0
+55,28890,Healthcare,Mid,West,Rep B,24,380.51,7,1
+56,66606,Retail,High,Midwest,Rep A,24,502.14,9,0
+57,236110,Retail,High,West,Rep A,60,337.49,3,0
+58,112313,Healthcare,High,South,Rep D,60,314.2,13,1
+59,166699,Real Estate,Mid,South,Rep C,36,374.34,15,0
+60,33792,Retail,Mid,West,Rep B,24,829.71,18,1
+61,230041,Hospitality,Mid,West,Rep D,24,602.24,19,0
+62,199073,Hospitality,High,Northeast,Rep A,60,831.2,1,0
+63,232624,Healthcare,Mid,South,Rep B,24,537.87,6,0
+64,179969,Legal,Mid,South,Rep C,24,471.5,2,1
+65,93148,Legal,High,West,Rep A,24,578.38,14,0
+66,149243,Healthcare,Low,Midwest,Rep A,60,541.73,6,0
+67,145174,Legal,High,South,Rep A,36,358.12,14,0
+68,179555,Real Estate,Mid,Midwest,Rep D,72,652.45,4,0
+69,149358,Real Estate,High,West,Rep C,36,418.82,8,0
+70,73555,Legal,Low,West,Rep B,72,640.77,3,0
+71,42159,Hospitality,High,Northeast,Rep D,24,657.61,19,0
+72,135510,Legal,Mid,South,Rep D,36,383.61,14,0
+73,131530,Real Estate,Low,Midwest,Rep D,72,333.74,17,0
+74,105077,Tech,Mid,Northeast,Rep A,60,729.42,8,0
+75,60920,Construction,Low,South,Rep C,60,552.89,14,1
+76,248139,Retail,Low,Northeast,Rep D,36,331.99,6,1
+77,223193,Tech,High,West,Rep B,36,847.18,16,0
+78,225551,Legal,High,South,Rep C,24,331.78,19,0
+79,245547,Hospitality,Mid,Northeast,Rep B,36,682.27,14,0
+80,44457,Healthcare,High,Northeast,Rep C,24,841.02,19,0
+81,222629,Legal,High,Midwest,Rep B,24,431.55,3,1
+82,233261,Hospitality,Low,Northeast,Rep A,60,378.24,10,1
+83,103953,Construction,High,South,Rep D,60,366.76,19,0
+84,77995,Legal,Low,South,Rep B,72,466.8,9,0
+85,196829,Real Estate,Low,Midwest,Rep C,60,355.58,13,1
+86,34692,Healthcare,Low,South,Rep D,60,680.69,7,0
+87,201830,Hospitality,Mid,West,Rep D,36,334.26,14,0
+88,228481,Hospitality,Mid,South,Rep C,60,580.18,9,0
+89,227283,Hospitality,Mid,South,Rep B,72,848.18,19,0
+90,221769,Construction,Low,Northeast,Rep A,36,747.68,15,1
+91,62065,Legal,Mid,Northeast,Rep A,72,638.37,14,0
+92,248165,Construction,Mid,South,Rep B,60,468.44,6,0
+93,124299,Retail,High,Midwest,Rep D,72,643.14,4,1
+94,188678,Retail,Mid,Northeast,Rep D,36,589.87,8,0
+95,36534,Legal,Mid,Midwest,Rep D,24,534.35,17,0
+96,65397,Real Estate,Low,South,Rep D,72,371.89,9,0
+97,116387,Construction,Low,South,Rep B,72,787.63,1,0
+98,26016,Healthcare,Low,West,Rep D,36,547.38,14,0
+99,245861,Hospitality,Low,Northeast,Rep C,36,407.04,11,1
+100,80591,Hospitality,Low,South,Rep D,72,502.27,3,0
+101,245884,Legal,Low,West,Rep A,60,527.77,9,1
+102,48247,Real Estate,Mid,Northeast,Rep D,72,755.15,14,1
+103,49300,Retail,Low,South,Rep B,36,703.49,9,0
+104,230137,Retail,Low,South,Rep A,24,723.12,4,0
+105,107798,Hospitality,High,Northeast,Rep B,24,306.07,4,0
+106,34268,Legal,Mid,Northeast,Rep B,60,528.88,8,0
+107,111807,Construction,Mid,Northeast,Rep A,72,564.74,2,0
+108,37185,Retail,Mid,South,Rep B,24,310.56,9,0
+109,219776,Construction,Low,South,Rep B,72,442.9,14,1
+110,242851,Real Estate,Low,West,Rep D,36,718.16,9,0
+111,195171,Retail,Low,Midwest,Rep C,24,375.41,16,1
+112,164643,Retail,High,Northeast,Rep B,60,594.42,17,0
+113,63044,Tech,Low,South,Rep B,36,418.36,16,0
+114,76214,Retail,High,South,Rep B,60,306.67,12,0
+115,217300,Healthcare,Mid,Northeast,Rep D,36,432.66,3,1
+116,139752,Legal,Low,Midwest,Rep C,24,836.73,11,0
+117,73984,Legal,High,Northeast,Rep A,60,740.85,14,0
+118,65774,Construction,High,Midwest,Rep D,60,827.77,18,0
+119,27568,Real Estate,Low,South,Rep D,36,568.32,5,0
+120,145151,Retail,Mid,Midwest,Rep C,60,360.35,16,0
+121,218664,Healthcare,Mid,West,Rep C,36,601.38,5,0
+122,223635,Construction,Mid,South,Rep D,36,549.91,3,1
+123,158767,Tech,High,West,Rep A,36,764.4,12,0
+124,149375,Construction,High,Northeast,Rep D,36,353.95,1,0
+125,204262,Construction,High,Northeast,Rep C,24,568.53,9,0
+126,161330,Retail,High,Northeast,Rep A,36,382.53,9,1
+127,243610,Tech,Mid,Midwest,Rep C,72,478.57,4,1
+128,64504,Construction,Low,South,Rep A,60,705.55,3,0
+129,189231,Healthcare,High,Northeast,Rep B,72,561.81,17,0
+130,38986,Healthcare,High,Northeast,Rep C,24,506.74,2,0
+131,86858,Legal,Mid,South,Rep C,72,516.96,1,1
+132,154312,Tech,Low,Northeast,Rep D,60,552.7,8,1
+133,37666,Tech,Low,West,Rep C,72,731.76,13,0
+134,63660,Legal,Mid,South,Rep C,24,790.65,15,1
+135,159633,Construction,Mid,South,Rep B,36,825.43,8,1
+136,51854,Tech,Low,South,Rep C,72,732.8,12,0
+137,89505,Healthcare,High,West,Rep B,24,473.47,12,0
+138,129488,Healthcare,Low,South,Rep B,24,678.47,14,0
+139,208323,Retail,Mid,West,Rep B,60,540.68,15,0
+140,47662,Tech,High,South,Rep B,60,440.07,15,0
+141,33392,Construction,High,Midwest,Rep A,72,762.48,9,1
+142,55535,Legal,Mid,Northeast,Rep D,36,321.13,19,0
+143,234675,Legal,Mid,Midwest,Rep A,24,795.97,8,0
+144,138569,Construction,Mid,Northeast,Rep C,72,553.81,19,0
+145,77256,Real Estate,Low,West,Rep A,24,650.46,6,0
+146,114135,Hospitality,Low,Midwest,Rep A,24,662.64,19,0
+147,152478,Retail,High,South,Rep C,36,792.31,4,0
+148,60222,Legal,Mid,Northeast,Rep C,36,650.17,7,0
+149,102373,Tech,High,Northeast,Rep C,72,637.66,4,0
+150,235647,Retail,High,Midwest,Rep A,36,336.66,12,0
+151,148684,Tech,High,West,Rep A,36,585.12,13,1
+152,240723,Real Estate,High,Midwest,Rep C,72,382.59,3,1
+153,219407,Healthcare,Mid,West,Rep D,36,705.59,12,0
+154,35965,Retail,High,West,Rep D,60,581.72,2,0
+155,49538,Legal,Mid,Northeast,Rep B,24,674.13,2,1
+156,133066,Retail,Mid,Midwest,Rep C,24,322.92,9,0
+157,226664,Retail,Low,Midwest,Rep B,24,346.64,1,1
+158,138252,Retail,Mid,West,Rep D,24,693.98,8,0
+159,164182,Hospitality,Low,Midwest,Rep B,72,339.65,6,1
+160,235381,Retail,Mid,South,Rep C,24,339.19,6,0
+161,183338,Tech,Mid,South,Rep C,24,306.66,18,0
+162,209064,Healthcare,Mid,Midwest,Rep C,24,826.08,17,0
+163,239020,Real Estate,Low,Midwest,Rep A,24,705.63,12,1
+164,123806,Construction,Low,West,Rep B,60,494.29,6,0
+165,162982,Retail,High,South,Rep D,24,463.09,8,0
+166,135989,Legal,Low,South,Rep D,60,492.34,19,0
+167,115982,Retail,Low,Northeast,Rep D,72,726.06,10,0
+168,146626,Legal,Low,West,Rep A,36,663.75,1,1
+169,144176,Tech,Low,Northeast,Rep A,24,401.86,13,0
+170,156278,Legal,High,South,Rep C,36,395.76,17,0
+171,243126,Construction,Low,West,Rep D,36,354.12,3,1
+172,243969,Healthcare,Mid,Midwest,Rep A,72,663.17,8,0
+173,147409,Legal,Mid,West,Rep C,36,720.4,14,0
+174,48419,Legal,Low,Midwest,Rep D,60,445.78,3,0
+175,206708,Healthcare,Low,Midwest,Rep B,36,311.52,16,1
+176,75015,Construction,Mid,West,Rep C,36,345.19,13,0
+177,147096,Retail,Mid,Midwest,Rep A,36,832.32,17,0
+178,132059,Legal,High,Northeast,Rep A,24,462.49,13,0
+179,210340,Healthcare,Mid,South,Rep C,24,723.07,6,0
+180,135687,Tech,Mid,Midwest,Rep C,60,643.56,17,0
+181,112939,Healthcare,Low,Northeast,Rep A,60,510.07,14,1
+182,174213,Tech,Mid,Midwest,Rep B,24,413.13,17,0
+183,236428,Construction,High,South,Rep D,60,366.76,8,0
+184,130878,Retail,Mid,Northeast,Rep B,24,638.26,11,0
+185,227982,Healthcare,Low,South,Rep C,72,726.05,1,0
+186,212116,Real Estate,Low,South,Rep B,36,654.15,7,0
+187,223286,Real Estate,Mid,Northeast,Rep A,36,591.67,17,0
+188,189899,Hospitality,Low,Northeast,Rep C,60,323.07,10,1
+189,211892,Legal,High,Northeast,Rep D,24,832.67,11,0
+190,87623,Construction,High,West,Rep A,24,739.29,9,0
+191,237806,Healthcare,Mid,Northeast,Rep A,60,461.05,9,1
+192,100450,Real Estate,Mid,Northeast,Rep D,24,838.98,5,1
+193,118426,Legal,Mid,Northeast,Rep D,72,631.03,17,0
+194,142845,Real Estate,Low,Northeast,Rep B,36,620.33,9,0
+195,178371,Healthcare,High,Midwest,Rep C,60,711.44,17,0
+196,68585,Tech,High,West,Rep D,60,746.47,19,1
+197,134225,Healthcare,Low,South,Rep D,24,661.06,7,0
+198,89044,Hospitality,High,Northeast,Rep C,60,370.45,9,0
+199,198629,Healthcare,Mid,Midwest,Rep D,72,486.05,7,0
+200,205152,Healthcare,Mid,Midwest,Rep D,24,810.45,13,0
+201,134556,Hospitality,Mid,Midwest,Rep B,24,423.54,11,0
+202,27693,Construction,High,South,Rep A,24,504.69,14,0
+203,120259,Healthcare,Mid,Northeast,Rep A,24,537.64,19,0
+204,225235,Hospitality,Low,West,Rep A,72,541.67,11,1
+205,50939,Legal,Low,West,Rep A,24,637.12,13,0
+206,204997,Tech,High,Midwest,Rep D,60,818.69,14,0
+207,199013,Tech,Low,South,Rep C,72,432.38,13,1
+208,177906,Healthcare,Low,South,Rep C,36,366.83,1,1
+209,43047,Construction,High,South,Rep B,36,408.61,8,1
+210,51105,Construction,Mid,West,Rep B,60,787.81,12,1
+211,100766,Legal,Mid,Midwest,Rep D,60,655.2,19,0
+212,171779,Healthcare,Mid,Northeast,Rep C,72,457.25,12,0
+213,178048,Tech,High,West,Rep C,36,748.77,8,1
+214,69262,Construction,Low,Midwest,Rep A,36,773.75,8,0
+215,150117,Healthcare,Mid,Midwest,Rep D,36,765.58,13,0
+216,48776,Real Estate,Mid,Northeast,Rep D,36,805.41,12,0
+217,186152,Construction,High,Northeast,Rep A,36,438.73,16,0
+218,153376,Hospitality,Mid,Northeast,Rep D,24,715.27,1,0
+219,222914,Real Estate,High,South,Rep D,60,553.3,13,1
+220,217445,Construction,Low,Northeast,Rep B,24,763.1,7,0
+221,162848,Tech,High,Midwest,Rep C,36,700.67,5,0
+222,117787,Retail,High,Northeast,Rep D,72,727.05,8,0
+223,152948,Real Estate,High,Midwest,Rep B,72,660.89,14,0
+224,80016,Legal,High,West,Rep C,36,397.59,13,0
+225,165546,Legal,Low,South,Rep A,36,599.76,15,1
+226,214125,Tech,Low,West,Rep B,72,841.57,17,1
+227,46959,Construction,Mid,West,Rep B,24,815.56,15,0
+228,161602,Healthcare,Low,Midwest,Rep C,24,323.75,18,1
+229,144101,Construction,Low,West,Rep A,36,390.65,18,1
+230,28748,Tech,Mid,Midwest,Rep B,24,372.45,2,0
+231,38545,Legal,Low,Northeast,Rep D,72,699.29,4,0
+232,152659,Construction,High,Northeast,Rep D,24,749.78,1,0
+233,222271,Legal,High,Midwest,Rep D,36,417.43,4,0
+234,190838,Real Estate,Mid,Northeast,Rep A,72,578.22,18,0
+235,98530,Healthcare,Mid,South,Rep B,24,762.39,5,0
+236,118557,Real Estate,Mid,West,Rep D,60,703.04,19,1
+237,86087,Legal,High,South,Rep A,72,598.23,15,0
+238,93840,Legal,Low,West,Rep D,72,624.69,8,0
+239,143451,Retail,High,Northeast,Rep C,60,579.6,17,0
+240,210456,Retail,Mid,South,Rep B,60,463.65,1,0
+241,76005,Real Estate,Low,Northeast,Rep B,72,610.76,12,0
+242,202648,Hospitality,Low,West,Rep A,60,678.89,19,0
+243,64353,Real Estate,High,Midwest,Rep A,36,780.33,15,0
+244,218075,Retail,Mid,Midwest,Rep B,36,649.96,9,0
+245,239283,Legal,High,South,Rep D,36,718.62,7,1
+246,77733,Tech,Low,Northeast,Rep D,72,388.04,2,0
+247,90318,Real Estate,High,Northeast,Rep C,60,553.86,9,0
+248,245546,Legal,High,South,Rep D,60,305.13,10,1
+249,179736,Tech,Mid,Midwest,Rep A,24,435.67,2,0
+250,92172,Tech,Mid,West,Rep A,24,699.55,19,0
+251,241688,Retail,Low,South,Rep D,60,845.5,11,0
+252,118264,Real Estate,High,West,Rep A,60,354.55,13,0
+253,51736,Construction,High,Midwest,Rep B,60,520.82,10,0
+254,137859,Healthcare,High,Northeast,Rep B,72,740.04,14,0
+255,137181,Retail,Low,Midwest,Rep D,60,412.22,18,0
+256,156926,Retail,Low,South,Rep B,24,605.3,19,1
+257,115084,Construction,Mid,Northeast,Rep B,72,703.19,9,0
+258,194695,Healthcare,Mid,South,Rep C,60,638.79,7,0
+259,32392,Legal,Mid,South,Rep C,24,403.41,3,0
+260,80680,Hospitality,High,Midwest,Rep B,72,495.46,6,0
+261,202789,Real Estate,High,South,Rep D,60,731.09,2,0
+262,243164,Hospitality,Mid,Midwest,Rep C,60,604.82,6,1
+263,75859,Legal,High,Northeast,Rep A,60,302.88,3,0
+264,150657,Retail,Mid,Midwest,Rep A,72,718.54,16,0
+265,182381,Healthcare,Low,Northeast,Rep A,24,319.42,8,1
+266,243527,Retail,Mid,Midwest,Rep D,24,710.15,2,1
+267,219806,Tech,Low,West,Rep B,36,411.36,17,1
+268,95467,Retail,High,West,Rep A,60,826.94,9,0
+269,208734,Retail,Mid,South,Rep D,36,502.37,12,0
+270,123506,Legal,High,Midwest,Rep C,36,479.81,3,0
+271,134751,Legal,Low,Midwest,Rep B,24,381.89,11,0
+272,143906,Legal,Low,Northeast,Rep C,72,468.08,1,0
+273,168760,Hospitality,Low,South,Rep D,72,782.16,13,0
+274,50342,Tech,High,Midwest,Rep A,24,847.98,15,0
+275,193229,Legal,High,South,Rep A,72,502.57,5,0
+276,223935,Healthcare,High,West,Rep D,36,546.74,17,1
+277,131308,Hospitality,High,Midwest,Rep A,60,697.14,6,0
+278,208155,Construction,Low,Midwest,Rep B,24,787.41,11,1
+279,131081,Healthcare,Low,South,Rep D,60,626.17,18,0
+280,221805,Real Estate,Mid,Midwest,Rep C,72,515.34,4,0
+281,114045,Real Estate,Mid,South,Rep D,60,526.94,3,1
+282,59698,Healthcare,High,Midwest,Rep B,72,682.59,13,0
+283,135078,Legal,Low,Northeast,Rep B,72,301.77,9,0
+284,105623,Construction,Low,South,Rep D,36,640.77,6,0
+285,47671,Construction,Low,Midwest,Rep D,72,495.52,12,0
+286,181256,Hospitality,Mid,West,Rep A,36,736.81,2,1
+287,118384,Construction,Mid,Midwest,Rep B,36,351.14,3,0
+288,198179,Real Estate,Low,West,Rep D,36,623.51,3,0
+289,111202,Tech,Low,West,Rep D,24,564.54,12,0
+290,76663,Legal,Low,Northeast,Rep B,24,653.28,15,0
+291,40708,Construction,Mid,South,Rep D,72,335.67,9,0
+292,116906,Hospitality,Low,Midwest,Rep A,36,618.99,8,0
+293,74811,Real Estate,Low,Northeast,Rep B,24,608.82,11,0
+294,158883,Tech,High,Midwest,Rep A,36,608.36,16,0
+295,81250,Retail,High,West,Rep A,60,631.92,4,0
+296,137547,Retail,Mid,South,Rep A,60,672.06,1,0
+297,228154,Tech,Low,Midwest,Rep A,60,742.74,7,0
+298,149249,Real Estate,Low,Midwest,Rep B,72,448.4,2,0
+299,59754,Hospitality,High,West,Rep A,36,753.78,5,0
+300,167483,Tech,Mid,Midwest,Rep A,60,574.04,7,0
+301,158983,Legal,High,Midwest,Rep D,24,342.38,4,1
+302,223342,Legal,High,West,Rep B,60,332.2,5,0
+303,239835,Retail,High,Northeast,Rep B,60,483.83,1,1
+304,164752,Construction,High,West,Rep C,60,731.69,1,0
+305,109896,Hospitality,Low,Northeast,Rep B,72,689.22,15,0
+306,239951,Retail,Low,South,Rep B,24,733.74,19,1
+307,96295,Construction,High,Northeast,Rep C,36,584.5,10,1
+308,244686,Construction,Mid,Northeast,Rep B,24,542.11,18,1
+309,125689,Legal,Mid,South,Rep B,36,381.1,3,0
+310,36111,Real Estate,Mid,Northeast,Rep B,72,480.51,11,0
+311,62504,Healthcare,Mid,West,Rep B,72,538.71,15,0
+312,157874,Real Estate,High,Northeast,Rep C,72,348.73,11,0
+313,33155,Healthcare,Low,South,Rep B,72,421.34,17,0
+314,229728,Tech,Mid,West,Rep B,36,629.02,17,0
+315,64384,Legal,High,South,Rep C,60,704.61,6,0
+316,137561,Construction,Mid,South,Rep D,36,849.09,5,0
+317,72254,Hospitality,Mid,Midwest,Rep A,24,813.21,8,0
+318,46918,Healthcare,High,Midwest,Rep D,72,653.41,2,0
+319,110981,Real Estate,Low,South,Rep C,72,531.69,16,0
+320,216785,Construction,Low,South,Rep A,24,649.9,12,0
+321,55306,Healthcare,High,South,Rep C,36,732.11,6,0
+322,172718,Healthcare,Low,Midwest,Rep C,60,365.08,1,1
+323,71843,Healthcare,High,Midwest,Rep B,60,525.45,4,0
+324,145975,Hospitality,High,Northeast,Rep A,24,761.89,17,0
+325,121601,Legal,High,Northeast,Rep B,60,511.11,13,0
+326,246807,Hospitality,Low,South,Rep A,36,614.53,18,0
+327,132512,Retail,High,West,Rep C,36,623.27,5,0
+328,172443,Construction,Mid,West,Rep C,24,401.46,3,1
+329,233443,Legal,Low,Midwest,Rep D,36,499.23,11,1
+330,136472,Legal,Low,Midwest,Rep A,72,483.98,13,0
+331,158121,Legal,Low,Midwest,Rep B,24,314.41,4,1
+332,187688,Real Estate,Low,South,Rep D,36,313.31,14,1
+333,128727,Legal,Mid,West,Rep D,24,757.43,11,1
+334,137893,Hospitality,Low,Northeast,Rep D,60,450.19,10,0
+335,45932,Legal,Low,South,Rep B,36,584.94,19,0
+336,142796,Tech,High,Northeast,Rep D,72,464.3,18,0
+337,54855,Construction,Low,Northeast,Rep B,36,817.37,6,0
+338,217506,Legal,Mid,South,Rep D,24,442.61,15,0
+339,228766,Construction,Mid,Northeast,Rep B,24,536.31,10,0
+340,199088,Tech,Mid,West,Rep C,36,780,5,0
+341,32400,Tech,Mid,Northeast,Rep C,72,763.06,5,0
+342,142858,Construction,Low,West,Rep C,72,402.36,10,0
+343,198714,Healthcare,Low,West,Rep C,72,741.45,5,1
+344,40151,Retail,Mid,West,Rep C,24,552,3,0
+345,207479,Real Estate,Mid,Midwest,Rep D,36,565.63,6,0
+346,91690,Healthcare,Low,Northeast,Rep D,60,373.41,4,0
+347,29499,Healthcare,Mid,South,Rep D,24,344.33,18,0
+348,31295,Hospitality,High,South,Rep B,72,700.37,9,1
+349,145885,Real Estate,Mid,Northeast,Rep B,36,573.05,17,1
+350,151071,Real Estate,Mid,Midwest,Rep B,72,540.27,13,0
+351,84040,Healthcare,High,Midwest,Rep B,60,701.23,15,1
+352,37183,Legal,High,West,Rep C,72,721.03,17,0
+353,185371,Hospitality,Low,Northeast,Rep C,72,387.4,13,1
+354,168946,Hospitality,Low,Northeast,Rep C,60,635.62,16,1
+355,141336,Tech,High,South,Rep A,36,374.44,4,0
+356,57711,Real Estate,High,Northeast,Rep D,24,713.26,5,0
+357,30539,Healthcare,Low,Midwest,Rep B,36,661.33,5,0
+358,209423,Tech,Mid,Northeast,Rep B,60,826.14,9,0
+359,217339,Construction,High,South,Rep C,72,337.93,17,0
+360,204426,Retail,Low,West,Rep B,36,331.38,13,1
+361,151063,Hospitality,Mid,South,Rep B,24,455.2,2,0
+362,158629,Construction,High,South,Rep D,60,443.94,13,0
+363,63360,Construction,Mid,West,Rep C,36,435.84,19,0
+364,238090,Legal,Low,South,Rep D,24,798.44,3,0
+365,158272,Retail,High,South,Rep A,60,437.25,10,0
+366,224569,Construction,Mid,Northeast,Rep A,24,449.57,2,0
+367,203047,Construction,High,Northeast,Rep A,60,717.67,13,0
+368,46357,Retail,Mid,West,Rep C,72,547.36,19,0
+369,144121,Retail,Low,Northeast,Rep B,36,727.19,17,0
+370,102505,Construction,Low,Northeast,Rep C,24,335.95,14,0
+371,27869,Retail,High,South,Rep C,60,568.16,12,0
+372,217207,Construction,Mid,Midwest,Rep B,24,318.49,12,1
+373,75108,Construction,High,Northeast,Rep D,24,334.46,11,0
+374,137296,Legal,High,Midwest,Rep A,36,798.54,7,0
+375,119179,Healthcare,Mid,Northeast,Rep D,72,376.58,4,0
+376,115272,Construction,Mid,Northeast,Rep A,24,592.83,19,0
+377,63467,Tech,Mid,West,Rep C,60,526.1,1,0
+378,48328,Hospitality,Low,West,Rep A,60,491.04,3,0
+379,116412,Real Estate,High,West,Rep C,72,794.91,13,0
+380,242903,Healthcare,High,Midwest,Rep D,60,312,15,0
+381,160059,Healthcare,Low,South,Rep C,72,665.08,2,1
+382,83871,Healthcare,Mid,Northeast,Rep D,60,829.87,11,0
+383,178471,Legal,Low,Northeast,Rep B,36,608.09,4,0
+384,153391,Construction,Low,Northeast,Rep B,24,815.25,19,1
+385,202286,Legal,Low,Midwest,Rep B,36,328.74,17,1
+386,111416,Construction,High,West,Rep C,24,530.34,3,0
+387,95271,Legal,Low,South,Rep B,24,443.09,18,0
+388,69064,Legal,High,Midwest,Rep A,24,701.95,8,1
+389,226163,Hospitality,High,West,Rep D,36,839.71,19,0
+390,132450,Tech,High,Midwest,Rep D,24,441.09,5,0
+391,196890,Legal,Mid,South,Rep A,36,659.8,7,0
+392,201597,Hospitality,High,West,Rep C,72,408.95,8,0
+393,44830,Retail,High,Midwest,Rep C,60,610.93,5,0
+394,173501,Tech,Mid,South,Rep D,60,555.16,17,1
+395,162965,Legal,High,Northeast,Rep B,24,834.6,5,0
+396,141381,Real Estate,Low,South,Rep C,36,634.69,4,0
+397,235981,Healthcare,Low,Northeast,Rep C,60,492.23,19,1
+398,72333,Retail,High,Midwest,Rep A,36,362.75,2,0
+399,159508,Retail,Mid,West,Rep A,36,383.19,11,0
+400,230362,Hospitality,Low,West,Rep B,24,423.92,13,1
+401,101213,Retail,Mid,Midwest,Rep C,60,438.03,15,0
+402,161967,Tech,Mid,West,Rep C,24,767.84,12,0
+403,175810,Legal,Low,West,Rep A,24,608.67,11,0
+404,55746,Legal,Mid,Northeast,Rep C,60,587.87,7,0
+405,74377,Real Estate,Low,Midwest,Rep D,60,363.12,5,0
+406,204476,Healthcare,Mid,South,Rep A,72,773.08,17,0
+407,79045,Hospitality,Low,Northeast,Rep B,72,697.55,9,0
+408,122888,Healthcare,High,Midwest,Rep A,36,337.22,14,0
+409,195862,Retail,Low,Northeast,Rep C,60,689.31,12,1
+410,132455,Real Estate,Low,South,Rep B,72,598.95,6,0
+411,161672,Healthcare,Low,South,Rep A,36,344.95,17,1
+412,118179,Tech,Low,Midwest,Rep D,36,552.07,19,0
+413,196836,Legal,Mid,South,Rep D,36,566.58,19,0
+414,230615,Retail,High,Northeast,Rep A,72,391.18,16,0
+415,70714,Real Estate,Low,South,Rep D,60,820.13,12,0
+416,212907,Healthcare,Mid,Northeast,Rep D,24,767.49,12,0
+417,127946,Hospitality,High,Northeast,Rep D,36,667.96,6,0
+418,134616,Tech,High,South,Rep B,72,554.26,4,0
+419,130983,Tech,High,Midwest,Rep D,72,526.47,6,0
+420,229816,Healthcare,High,West,Rep D,24,658.04,11,1
+421,212563,Legal,Low,South,Rep D,24,599.99,1,1
+422,149123,Healthcare,Low,Northeast,Rep B,72,334.25,15,0
+423,174661,Retail,Mid,Northeast,Rep A,60,581.88,11,0
+424,68484,Healthcare,Mid,South,Rep C,24,743.52,19,1
+425,107989,Tech,Mid,Midwest,Rep D,72,552.58,18,0
+426,61212,Real Estate,High,Midwest,Rep A,24,328.58,17,1
+427,68525,Healthcare,High,Northeast,Rep D,60,732.45,19,0
+428,203274,Legal,Low,Northeast,Rep B,36,410.75,14,1
+429,188707,Real Estate,High,Midwest,Rep A,24,442.24,18,0
+430,88208,Hospitality,High,West,Rep B,60,390.59,19,0
+431,58828,Construction,High,South,Rep D,72,481.62,15,0
+432,174783,Healthcare,Mid,Northeast,Rep D,24,716.21,15,0
+433,28420,Legal,Mid,Northeast,Rep B,24,585.66,4,0
+434,121752,Real Estate,Low,Midwest,Rep C,72,412.68,7,0
+435,156373,Legal,High,South,Rep B,36,782.81,13,1
+436,201308,Hospitality,High,Midwest,Rep D,72,783.77,3,0
+437,140294,Tech,Low,South,Rep B,24,778.82,16,0
+438,222307,Legal,High,South,Rep C,72,431.34,9,0
+439,210312,Real Estate,High,South,Rep B,60,548.18,8,1
+440,149019,Legal,Mid,Northeast,Rep C,72,841.74,13,0
+441,90726,Legal,Low,West,Rep C,24,724.61,17,0
+442,166564,Legal,Low,Midwest,Rep B,72,314.94,17,1
+443,140668,Retail,Low,West,Rep B,36,335.86,17,1
+444,31102,Retail,Low,Midwest,Rep A,72,555.16,1,0
+445,206408,Tech,Mid,South,Rep D,36,800.07,8,1
+446,143015,Healthcare,Mid,Northeast,Rep C,60,596.29,19,0
+447,241386,Legal,High,West,Rep A,36,573.8,6,0
+448,51641,Hospitality,High,Northeast,Rep B,72,358.01,3,0
+449,190656,Healthcare,High,Midwest,Rep D,24,661.23,5,0
+450,188817,Hospitality,High,Northeast,Rep A,36,752.16,13,0
+451,179165,Healthcare,Mid,Northeast,Rep C,60,509.23,15,0
+452,222177,Tech,Low,West,Rep A,36,726.59,14,0
+453,128746,Legal,Mid,South,Rep C,36,830.46,16,0
+454,207957,Legal,High,Northeast,Rep B,36,412.07,18,0
+455,61631,Construction,Mid,South,Rep D,60,587.83,11,0
+456,97991,Hospitality,Low,Midwest,Rep D,72,457.93,3,1
+457,29014,Healthcare,Low,Northeast,Rep D,36,736.07,10,0
+458,36093,Healthcare,Mid,West,Rep B,36,617.68,10,1
+459,43070,Retail,Mid,Midwest,Rep C,24,649.02,16,0
+460,60777,Construction,Mid,Midwest,Rep B,60,738.85,12,0
+461,81958,Real Estate,High,West,Rep D,36,517.78,2,0
+462,107074,Real Estate,Mid,Northeast,Rep B,60,803.3,9,0
+463,35729,Retail,Mid,Northeast,Rep B,36,593.17,3,0
+464,201089,Retail,Mid,Midwest,Rep B,72,386.88,15,0
+465,222392,Retail,Low,Northeast,Rep C,72,682.74,3,0
+466,183823,Hospitality,Low,South,Rep A,36,736.29,19,0
+467,130864,Hospitality,High,West,Rep A,72,474.22,18,1
+468,155858,Tech,High,South,Rep B,36,771.45,8,0
+469,234141,Tech,Low,Northeast,Rep A,72,798.38,17,0
+470,130510,Retail,Low,Midwest,Rep A,24,452.3,8,0
+471,79748,Construction,Low,West,Rep B,24,840.94,7,0
+472,30801,Healthcare,Mid,Northeast,Rep B,24,377.39,7,0
+473,175262,Hospitality,Mid,Northeast,Rep D,60,411.11,3,1
+474,205761,Construction,Low,Midwest,Rep A,60,401.32,1,1
+475,207065,Legal,Mid,Midwest,Rep C,24,791.69,4,0
+476,54592,Hospitality,Mid,South,Rep B,60,659.86,5,0
+477,35647,Hospitality,High,West,Rep D,72,383.66,1,0
+478,164788,Tech,Low,West,Rep C,36,542.18,15,1
+479,244963,Healthcare,Low,Midwest,Rep A,36,638.41,5,1
+480,243617,Healthcare,Mid,South,Rep D,36,345.91,13,0
+481,245984,Real Estate,Low,West,Rep B,24,785.33,8,0
+482,135627,Real Estate,High,Midwest,Rep C,60,741.98,8,1
+483,95316,Real Estate,High,Northeast,Rep B,72,577.86,5,0
+484,27368,Real Estate,High,West,Rep A,72,831.92,9,0
+485,102575,Legal,Low,South,Rep C,24,529.77,1,0
+486,31655,Legal,Low,South,Rep A,72,841.26,4,0
+487,95031,Hospitality,Low,South,Rep A,72,667.36,3,1
+488,232501,Retail,Low,Northeast,Rep D,72,649.07,2,0
+489,247155,Tech,Low,West,Rep B,72,391.28,8,1
+490,112922,Tech,High,West,Rep C,60,785.06,9,0
+491,211838,Real Estate,Mid,Northeast,Rep A,72,535.12,2,1
+492,149046,Hospitality,High,West,Rep A,36,389.23,14,0
+493,169475,Construction,Low,Northeast,Rep C,24,306.93,14,1
+494,57097,Retail,High,Northeast,Rep A,60,607.87,4,0
+495,234729,Hospitality,Low,Northeast,Rep D,72,590.07,6,1
+496,167038,Retail,Low,South,Rep D,60,695.64,11,0
+497,149862,Retail,High,West,Rep D,72,789.64,3,0
+498,143834,Retail,Low,Northeast,Rep D,36,343.67,8,0
+499,118848,Hospitality,Mid,West,Rep A,24,702.32,3,0
+500,77921,Real Estate,Low,South,Rep C,72,403.08,14,0
